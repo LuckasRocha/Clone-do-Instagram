@@ -14,4 +14,4 @@ Este projeto é um clone do Instagram feito no Bootcamp da plataforma DIO.
 
 * Conhecimentos básicos
 * Flexbox
-* Grid Layout
+* Media Queries
